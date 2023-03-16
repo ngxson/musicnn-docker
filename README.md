@@ -15,6 +15,7 @@ Do you have questions? Check the [FAQs](https://github.com/jordipons/musicnn/blo
 ```
 curl -fsSL get.docker.com -o get-docker.sh && sh get-docker.sh
 sudo docker run hello-world
+sudo docker login
 sudo apt install git
 git clone https://github.com/ngxson/musicnn-docker
 cd musicnn-docker
