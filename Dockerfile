@@ -1,3 +1,3 @@
-FROM python:3.10-bullseye
+FROM python:3.9-bullseye
 
 RUN pip install --no-cache-dir musicnn
