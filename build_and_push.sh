@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t ngxson/musicnn .
+docker build --no-cache -t ngxson/musicnn .
 docker push ngxson/musicnn
